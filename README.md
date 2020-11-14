@@ -1,4 +1,4 @@
-![] (https://github.com/Usamamalik11/Flight-Fare-Prediction/blob/main/runway-GettyImages-64197495.JPEG)
+![](https://github.com/Usamamalik11/Flight-Fare-Prediction/blob/main/runway-GettyImages-64197495.JPEG)
 
 # Flight-Fare-Prediction
 This is a flask app which predicts fare for different flights across India. The guidance for this project was taken from Krish Naik's youtube channel https://www.youtube.com/watch?v=y4EMEpEnElQ.
