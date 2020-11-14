@@ -1,4 +1,5 @@
 
+
 # Flight-Fare-Prediction
 This is a flask app which predicts fare for different flights across India. The guidance for this project was taken from Krish Naik's youtube channel https://www.youtube.com/watch?v=y4EMEpEnElQ.
 
