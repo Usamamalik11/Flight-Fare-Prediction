@@ -1,7 +1,7 @@
 # Flight-Fare-Prediction
 This is a flask app which predicts fare for different flights across India. The guidance for this project was taken from Krish Naik's youtube channel https://www.youtube.com/watch?v=y4EMEpEnElQ.
 
-##Overview:
+## Overview:
 This is one of the best projects that I have come across. Unfortunately, the dataset is only specific to India and can't be used anywhere else. I am working on building a similar dataset for Pakistan. Hope it gets completed soon. This app uses machine learning algrithm in the backend to predict fare for a flight givn different inputs. The step by step guide for the project an be taken here from this link https://www.youtube.com/watch?v=y4EMEpEnElQ.
 
 ## Dataset
